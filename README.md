@@ -2,8 +2,10 @@
 Example of a cross-platform Discord Bot with D++ and coroutines.
 
 Supported compilers :
-- g++13.1
-- MSVC 19.37
+- g++13.1 on Linux
+- MSVC 19.37 on Windows
+
+(clang++ with libc++ will be added soon)
 
 How to use :
 - CMake 3.18 or above as well as basic knowledge on how to use it is required.
