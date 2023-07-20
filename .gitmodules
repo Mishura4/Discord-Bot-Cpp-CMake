@@ -1,0 +1,4 @@
+[submodule "dep/DPP"]
+	path = dep/DPP
+	url = https://github.com/Mishura4/DPP-PRs.git
+	branch = msvc_ninja_fix
